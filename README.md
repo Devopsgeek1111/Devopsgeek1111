@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Devops Manager from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsgeek1111&label=Profile%20views&color=0e75b6&style=flat" alt="devopsgeek1111" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **DevSecOps and GitOps and MERN Stack**
 
