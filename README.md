@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Devops Manager from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsgeek1111&label=Profile%20views&color=0e75b6&style=flat" alt="devopsgeek1111" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **DevSecOps and GitOps and MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Devopsgeek1111](https://github.com/Devopsgeek1111)
+- 👨‍💻 All of my projects are available at [https://github.com/aboli1111](https://github.com/aboli1111)
 
 - 📫 How to reach me **https://www.linkedin.com/in/aboli-hasabe/**
 
@@ -23,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsgeek1111&show_icons=true&locale=en" alt="devopsgeek1111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devopsgeek1111&" alt="devopsgeek1111" /></p>
-
